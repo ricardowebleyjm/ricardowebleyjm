@@ -1,4 +1,4 @@
-# Hi there 👋 I a, Ricardo Webley
+# Hi there 👋 I am, Ricardo Webley
 
 <!--
 **ricardowebleyjm/ricardowebleyjm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ## 🚀 About Me
-I'm a full stack Application Developer
+I'm a full stack Application Developer located in Jamaica. 
