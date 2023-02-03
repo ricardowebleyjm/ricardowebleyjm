@@ -25,7 +25,7 @@ I'm a full stack Application Developer located in Jamaica.
 - C#
 
 
-## I am currently learning
+## 💻 I am currently learning
 Liverpool John Moores University
 
 - Software Development with Java
