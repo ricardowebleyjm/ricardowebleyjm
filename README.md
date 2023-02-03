@@ -23,6 +23,7 @@ I'm a full stack Application Developer located in Jamaica.
 - JavaScript
 - Java
 - C#
+- PHP
 
 
 ## 💻 I am currently learning
