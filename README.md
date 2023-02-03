@@ -16,4 +16,22 @@ Here are some ideas to get you started:
 -->
 
 ## 🚀 About Me
-I'm a full stack Application Developer located in Jamaica. 
+I'm a full stack Application Developer located in Jamaica.
+
+## 🛠 Skills
+- Python
+- JavaScript
+- Java
+- C#
+
+
+## I am currently learning
+Liverpool John Moores University
+
+- Software Development with Java
+- Computer Systems Technology
+- Database Design and Technology 
+
+
+
+
