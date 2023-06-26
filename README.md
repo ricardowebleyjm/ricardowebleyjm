@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 I'm a full stack Application Developer located in Jamaica.
 
 ## 🛠 Skills
-- Python
+- Pythonn
 - JavaScript
 - Java
 - C#
