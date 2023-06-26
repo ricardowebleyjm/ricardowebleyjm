@@ -1,4 +1,4 @@
-# Hi there 👋 I am, Ricardo Webley
+<h3 align="center">Hi there 👋 I am, Ricardo Webley</h3> 
 
 <!--
 **ricardowebleyjm/ricardowebleyjm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
